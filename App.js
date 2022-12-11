@@ -3,3 +3,4 @@ var myConcat = function (arr1, arr2) {
 };
 
 console.log(myConcat([1, 2], [3, 4, 5]));
+//alert "Hello";
