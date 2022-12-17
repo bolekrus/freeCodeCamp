@@ -6,3 +6,5 @@ const lowercaseString = (string) => {
   return string.toLowerCase();
 };
 export { uppercaseString, lowercaseString };
+
+TextDecoderStream;
